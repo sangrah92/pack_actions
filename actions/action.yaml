@@ -1,5 +1,6 @@
 ---
 name: "echo_action"
+ref: "pack_actions"
 runner_type: "python-script"
 description: "Print message to standard output."
 enabled: true
